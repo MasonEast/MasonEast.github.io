@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7698.3f369006.chunk.js","mappings":"0KAAe,SAASA,IACtB,OAAO,kCACR,C","sources":["page/about/index.tsx"],"sourcesContent":["export default function About() {\n  return <div>about</div>;\n}\n"],"names":["About"],"sourceRoot":""}

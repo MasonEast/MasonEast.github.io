@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcool_resume=self.webpackChunkcool_resume||[]).push([[446],{4446:function(e,f,s){e.exports=s.p+"static/media/tpl9.5cfb8039f680fff785f1.jpeg"}}]);
